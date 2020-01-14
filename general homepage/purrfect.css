@@ -1,0 +1,25 @@
+#content{
+	text-align: center;
+	padding-top: 15%;
+}
+hr{
+	width: 400px;
+}
+body{
+	font-family: "lato";
+	background: url(https://images.unsplash.com/photo-1524641234638-4c303747c310?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=63bfc59314baf4cb64537462c3cdb026&auto=format&fit=crop&w=750&q=80);
+	background-size: cover;	
+	background-position: center;
+}
+html{
+	height: 100%;
+}
+h1,h3{
+	color: white;
+	text-shadow: 5px 5px 5px rgba(0,0,0,0.2),
+				 10px 10px 10px rgba(0,0,0,0.4);
+}
+h1{
+	font-weight: 700;
+	font-size: 70px;
+}

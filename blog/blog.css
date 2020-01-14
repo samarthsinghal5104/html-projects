@@ -1,0 +1,27 @@
+body{
+	border:20px solid #bdc3c7;
+	margin: 20px auto;
+	width:50%;
+	font-family: Source Sans Pro;
+	padding: 0 20px;
+}
+h2{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-size: 15px;
+}
+h1{
+	color: #2c3e50;
+	font-weight: 800;
+}
+/*div{
+	margin: 20px;
+}*/
+hr{
+	color:2px solid  gray ;
+}
+.first{
+	border-left: 4px solid #bdc3c7;
+	padding-left: 4px;
+}

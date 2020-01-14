@@ -1,0 +1,62 @@
+html{
+	height: 100%;
+}
+
+body{
+	font-family: "Sunflower";
+	background-size: cover;	
+	background-position: center;
+	background: url(https://images.unsplash.com/photo-1440151050977-247552660a3b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=adb20b8e9a3816176a732c7f11d264cb&auto=format&fit=crop&w=1539&q=80) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+#content{
+	padding-top: 5%;
+
+}
+.col-xs-6{
+	
+	color:#00ffff;
+	font-size: 25px;
+}
+.col-sm-3{
+	margin-top: 2%;
+	color:#00ffff;
+	font-size: 25px;
+}
+.col-sm-9{
+	margin-top: 2%;
+	color:black;
+	font-size: 25px;
+}
+a{
+	color:white;
+}
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+.form-inline .form-control{
+	width:300px;
+}
+button{
+	width: 200px;
+	margin-top: 2%;
+	
+}
+.name{
+	color:#00ffff;
+	font-size: 25px;
+}
+p a{
+	color:blue;
+
+}
+form{
+	width: 40%;
+}
